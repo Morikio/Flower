@@ -1,0 +1,22 @@
+.flex-container {
+    display:flex;
+    justify-content: flex-start; /* Alinha os itens à esquerda */
+}
+
+/* Estilo para a div filha */
+.container {
+    width: 400px; /* Defina a largura desejada para o container */
+     /* Espaçamento interno */
+    padding-top: 50px;
+    padding-left: 100px;
+    height: 20px;
+}
+.style-text {
+    font-style: italic;
+    font-size:200%;
+    text-align:center;
+    color: white;
+}
+.space-item{
+    width: 400px;
+}
